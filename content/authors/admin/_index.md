@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: 马 桢
+name_pronunciation: Ma  Zhen
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,7 +15,7 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: 统计与管理学院
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
