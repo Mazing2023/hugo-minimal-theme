@@ -28,13 +28,13 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:656864621@qq.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/spacex/
+    link: https://www.instagram.com/
   - icon: weibo
     icon_pack: fab
     link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
